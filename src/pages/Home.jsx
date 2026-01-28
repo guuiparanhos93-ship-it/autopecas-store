@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import SearchBar from '../components/SearchBar';
 import ProductCard from '../components/ProductCard';
+import Logo from '../components/Logo';
 import products from '../data/products.json';
 import './Home.css';
 
@@ -114,8 +115,8 @@ function Home() {
       <footer className="footer">
         <div className="container">
           <div className="footer-grid">
-            <div className="footer-col">
-              <h3>🔧 LeG <span>Acessórios LTDA</span></h3>
+            <div className="footer-col footer-logo">
+              <Logo size={60} />
               <p>Sua loja online de autopeças com qualidade garantida e os melhores preços.</p>
             </div>
             <div className="footer-col">

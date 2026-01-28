@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
+import Logo from './Logo';
 import './Header.css';
 
 function Header() {
@@ -9,8 +10,7 @@ function Header() {
     <header className="header">
       <div className="header-container">
         <Link to="/" className="logo">
-          <span className="logo-icon">🔧</span>
-          <span className="logo-text">LeG <span className="logo-highlight">Acessórios</span></span>
+          <Logo size={45} />
         </Link>
 
         <nav className="nav-links">
