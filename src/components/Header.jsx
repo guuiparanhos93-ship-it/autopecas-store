@@ -10,7 +10,7 @@ function Header() {
     <header className="header">
       <div className="header-container">
         <Link to="/" className="logo">
-          <Logo size={45} />
+          <Logo size={80} />
         </Link>
 
         <nav className="nav-links">

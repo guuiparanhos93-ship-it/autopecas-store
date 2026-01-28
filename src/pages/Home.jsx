@@ -116,7 +116,7 @@ function Home() {
         <div className="container">
           <div className="footer-grid">
             <div className="footer-col footer-logo">
-              <Logo size={60} />
+              <Logo size={100} />
               <p>Sua loja online de autopeças com qualidade garantida e os melhores preços.</p>
             </div>
             <div className="footer-col">
