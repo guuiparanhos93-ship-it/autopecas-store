@@ -10,7 +10,7 @@ function Header() {
       <div className="header-container">
         <Link to="/" className="logo">
           <span className="logo-icon">🔧</span>
-          <span className="logo-text">Léo e <span className="logo-highlight">Gui</span></span>
+          <span className="logo-text">LeG <span className="logo-highlight">Acessórios</span></span>
         </Link>
 
         <nav className="nav-links">

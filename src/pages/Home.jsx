@@ -115,7 +115,7 @@ function Home() {
         <div className="container">
           <div className="footer-grid">
             <div className="footer-col">
-              <h3>🔧 Léo e <span>Gui</span></h3>
+              <h3>🔧 LeG <span>Acessórios LTDA</span></h3>
               <p>Sua loja online de autopeças com qualidade garantida e os melhores preços.</p>
             </div>
             <div className="footer-col">
@@ -141,7 +141,7 @@ function Home() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2025 AutoPeças Store. Todos os direitos reservados.</p>
+            <p>&copy; 2025 LeG Acessórios LTDA. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
