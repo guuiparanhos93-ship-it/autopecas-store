@@ -1,0 +1,2110 @@
+[
+  {
+    "id": 1,
+    "code": "ERP-C4-CR0713",
+    "name": "FRISO CROMADO CAPO CITROEN C4 PALLAS - FRISO CAPO",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 55,
+    "originalPrice": null,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_777820-MLB76140926183_052024-O.jpg",
+    "description": "FRISO CROMADO CAPO CITROEN C4 PALLAS HATCH SENDA VTR 07/13",
+    "compatibility": [
+      "FRISO CROMADO CAPO CITROEN C4 PALLAS HATCH SENDA VTR 07/13"
+    ],
+    "stock": 52,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "code": "ERP-308FT12/R",
+    "name": "FRISO MOLDURA TRASEIRA DO ESCAPAMENTO PEUGEOT - LD",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 145,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "FRISO MOLDURA TRASEIRA DO ESCAPAMENTO PEUGEOT 308 2012/2015 LADO DIREITO",
+    "compatibility": [
+      "FRISO MOLDURA TRASEIRA DO ESCAPAMENTO PEUGEOT 308 2012/2015"
+    ],
+    "stock": 16,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "code": "ERP-308FT12/L",
+    "name": "FRISO MOLDURA TRASEIRA DO ESCAPAMENTO PEUGEOT - LE",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 145,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "FRISO MOLDURA TRASEIRA DO ESCAPAMENTO PEUGEOT 308 2012/2015 LADO ESQUERDO",
+    "compatibility": [
+      "FRISO MOLDURA TRASEIRA DO ESCAPAMENTO PEUGEOT 308 2012/2015"
+    ],
+    "stock": 48,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "code": "ERP-PC-12124",
+    "name": "CALÇO SUSPENSÃO LINHA GM CORSA MONTANA - DIANTEIRO",
+    "brand": "Europartes",
+    "category": "Suspensão",
+    "price": 65,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "CALÇO SUSPENSÃO LINHA GM CORSA MONTANA 2003/2022 KIT 2 PÇS 3CM",
+    "compatibility": [
+      "O LINHA GM CORSA MONTANA 2003/2022"
+    ],
+    "stock": 14,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "code": "ERP-PC-12125",
+    "name": "CALÇO SUSPENSÃO LINHA FIAT PALIO STRADA - DIANTEIRO",
+    "brand": "Europartes",
+    "category": "Suspensão",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "CALÇO SUSPENSÃO LINHA FIAT PALIO STRADA SIENA DOBLO 2004/ KIT 2 PÇS 3CM",
+    "compatibility": [
+      "O LINHA FIAT PALIO STRADA SIENA DOBLO 2004/"
+    ],
+    "stock": 59,
+    "featured": true
+  },
+  {
+    "id": 6,
+    "code": "ERP-388-hdc198",
+    "name": "CAPA RETROVISOR CIVIC 12/2016 SEM FURO - LE",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 55,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "CAPA RETROVISOR CIVIC 12/2016 SEM FURO PISCA ESQUERDO",
+    "compatibility": [
+      "CAPA RETROVISOR CIVIC 12/2016"
+    ],
+    "stock": 23,
+    "featured": true
+  },
+  {
+    "id": 7,
+    "code": "ERP-388-hdc197",
+    "name": "CAPA RETROVISOR CIVIC 12/2016 SEM FURO - LD",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 55,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "CAPA RETROVISOR CIVIC 12/2016 SEM FURO PISCA DIREITO",
+    "compatibility": [
+      "CAPA RETROVISOR CIVIC 12/2016"
+    ],
+    "stock": 51,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "code": "ERP-12X2",
+    "name": "CAPA RETROVISOR CIVIC 12/2016  COM - LE",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 25,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "CAPA RETROVISOR CIVIC 12/2016  COM FURO PISCA ESQUERDO",
+    "compatibility": [
+      "CAPA RETROVISOR CIVIC 12/2016"
+    ],
+    "stock": 56,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "code": "ERP-12X1",
+    "name": "CAPA RETROVISOR CIVIC 12/2016  COM - LD",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 25,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "CAPA RETROVISOR CIVIC 12/2016  COM FURO PISCA DIREITO",
+    "compatibility": [
+      "CAPA RETROVISOR CIVIC 12/2016"
+    ],
+    "stock": 29,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "code": "ERP-19762",
+    "name": "PUXADOR INTERNO CAPO AMAROK 2010/2025 TODAS",
+    "brand": "Europartes",
+    "category": "Interior",
+    "price": 120,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/1104768/pexels-photo-1104768.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PUXADOR INTERNO CAPO AMAROK 2010/2025 TODAS",
+    "compatibility": [
+      "PUXADOR INTERNO CAPO AMAROK 2010/2025"
+    ],
+    "stock": 21,
+    "featured": false
+  },
+  {
+    "id": 11,
+    "code": "ERP-7L0823633H",
+    "name": "PUXADOR SUPORTE CAPO AMAROK 2010/2025 TODAS",
+    "brand": "Europartes",
+    "category": "Interior",
+    "price": 120,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/1104768/pexels-photo-1104768.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PUXADOR SUPORTE CAPO AMAROK 2010/2025 TODAS",
+    "compatibility": [
+      "PUXADOR SUPORTE CAPO AMAROK 2010/2025"
+    ],
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "code": "ERP-6Q0885644DIR",
+    "name": "TRAVA PUXADOR BANCO TRASEIRO POLO 2003 - LD",
+    "brand": "Europartes",
+    "category": "Interior",
+    "price": 65,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/1104768/pexels-photo-1104768.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "TRAVA PUXADOR BANCO TRASEIRO POLO 2003 ATÉ 2015 DIREITO PASSAGEIRO",
+    "compatibility": [
+      "TRAVA PUXADOR BANCO TRASEIRO POLO 2003"
+    ],
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": 13,
+    "code": "ERP-6Q088564EESQ",
+    "name": "TRAVA PUXADOR BANCO TRASEIRO POLO 2003 - LE",
+    "brand": "Europartes",
+    "category": "Interior",
+    "price": 65,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/1104768/pexels-photo-1104768.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "TRAVA PUXADOR BANCO TRASEIRO POLO 2003 ATÉ 2015 ESQUERDO PASSAGEIRO",
+    "compatibility": [
+      "TRAVA PUXADOR BANCO TRASEIRO POLO 2003"
+    ],
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 14,
+    "code": "ERP-TY-A10005D",
+    "name": "GRADE MILHA COROLLA 2005/2008 DIREITO ( - LD",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 25,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GRADE MILHA COROLLA 2005/2008 DIREITO ( TAPA BURACO)",
+    "compatibility": [
+      "GRADE MILHA COROLLA 2005/2008"
+    ],
+    "stock": 40,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "code": "ERP-TY-A10005E",
+    "name": "GRADE MILHA COROLLA 2005/2008 ESQUERDO ( - LE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 25,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GRADE MILHA COROLLA 2005/2008 ESQUERDO ( TAPA BURACO)",
+    "compatibility": [
+      "GRADE MILHA COROLLA 2005/2008"
+    ],
+    "stock": 51,
+    "featured": false
+  },
+  {
+    "id": 16,
+    "code": "ERP-H13R",
+    "name": "GUIA PARACHOQUE DIANTEIRO HR 2005/2024 DIREITO - LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 45,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA PARACHOQUE DIANTEIRO HR 2005/2024 DIREITO",
+    "compatibility": [
+      "GUIA PARACHOQUE DIANTEIRO HR 2005/2024"
+    ],
+    "stock": 27,
+    "featured": false
+  },
+  {
+    "id": 17,
+    "code": "ERP-HR13L",
+    "name": "GUIA PARACHOQUE DIANTEIRO HR 2005/2024 ESQUERDO - LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 45,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA PARACHOQUE DIANTEIRO HR 2005/2024 ESQUERDO",
+    "compatibility": [
+      "GUIA PARACHOQUE DIANTEIRO HR 2005/2024"
+    ],
+    "stock": 54,
+    "featured": false
+  },
+  {
+    "id": 18,
+    "code": "ERP-51117279712",
+    "name": "GUIA PARACHOQUE DIANTEIRO BMW S3 2012 -                     LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA PARACHOQUE DIANTEIRO BMW S3 2012 ATÉ 2019 ( TODOS OS MODELOS) DIREITO",
+    "compatibility": [
+      "GUIA PARACHOQUE DIANTEIRO BMW S3 2012"
+    ],
+    "stock": 34,
+    "featured": false
+  },
+  {
+    "id": 19,
+    "code": "ERP-51117279711",
+    "name": "GUIA PARACHOQUE DIANTEIRO BMW S3 2012 -                     LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA PARACHOQUE DIANTEIRO BMW S3 2012 ATÉ 2019 ( TODOS OS MODELOS) ESQUERDO",
+    "compatibility": [
+      "GUIA PARACHOQUE DIANTEIRO BMW S3 2012"
+    ],
+    "stock": 45,
+    "featured": false
+  },
+  {
+    "id": 20,
+    "code": "ERP-FR10/12R",
+    "name": "GUIA PARACHOQUE DIANTEIRO RANGER 2010/2012 DIREITO - LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA PARACHOQUE DIANTEIRO RANGER 2010/2012 DIREITO",
+    "compatibility": [
+      "GUIA PARACHOQUE DIANTEIRO RANGER 2010/2012"
+    ],
+    "stock": 22,
+    "featured": false
+  },
+  {
+    "id": 21,
+    "code": "ERP-FR10/12L",
+    "name": "GUIA PARACHOQUE DIANTEIRO RANGER 2010/2012 ESQUERDO - LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA PARACHOQUE DIANTEIRO RANGER 2010/2012 ESQUERDO",
+    "compatibility": [
+      "GUIA PARACHOQUE DIANTEIRO RANGER 2010/2012"
+    ],
+    "stock": 31,
+    "featured": false
+  },
+  {
+    "id": 22,
+    "code": "ERP-VW-AMK33120R",
+    "name": "GUIA SUPORTE MILHA AMAROK 2018/ DIREITO - LD",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 145,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA SUPORTE MILHA AMAROK 2018/ DIREITO",
+    "compatibility": [
+      "GUIA SUPORTE MILHA AMAROK 2018/"
+    ],
+    "stock": 24,
+    "featured": false
+  },
+  {
+    "id": 23,
+    "code": "ERP-VW-AMK33120L",
+    "name": "GUIA SUPORTE MILHA AMAROK 2018/ ESQUERDO - LE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 145,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GUIA SUPORTE MILHA AMAROK 2018/ ESQUERDO",
+    "compatibility": [
+      "GUIA SUPORTE MILHA AMAROK 2018/"
+    ],
+    "stock": 42,
+    "featured": false
+  },
+  {
+    "id": 24,
+    "code": "ERP-HD-09/14FC",
+    "name": "BUCHA REPARO CAIXA DIREÇÃO HONDA NEW - REPARO CAIXA DE DIREÇÃO",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO CAIXA DIREÇÃO HONDA NEW FIT 2009/2014",
+    "compatibility": [
+      "O HONDA NEW FIT 2009/2014"
+    ],
+    "stock": 26,
+    "featured": false
+  },
+  {
+    "id": 25,
+    "code": "ERP-HD-09/14EC",
+    "name": "BUCHA REPARO CAIXA DIREÇÃO HONDA CITY - REPARO CAIXA DE DIREÇÃO",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO CAIXA DIREÇÃO HONDA CITY 2009/2014",
+    "compatibility": [
+      "O HONDA CITY 2009/2014"
+    ],
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": 26,
+    "code": "ERP-VW14/18SF",
+    "name": "BUCHA REPARO CAIXA DIREÇÃO FOX SPACEFOX - REPARO CAIXA DE DIREÇÃO",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO CAIXA DIREÇÃO FOX SPACEFOX 2014/2017",
+    "compatibility": [
+      "O FOX SPACEFOX 2014/2017"
+    ],
+    "stock": 43,
+    "featured": false
+  },
+  {
+    "id": 27,
+    "code": "ERP-VW14/24PV",
+    "name": "BUCHA REPARO CAIXA DIREÇÃO POLO 2015/2019 - REPARO CAIXA DE DIREÇÃO",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO CAIXA DIREÇÃO POLO 2015/2019",
+    "compatibility": [
+      "O POLO 2015/2019"
+    ],
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": 28,
+    "code": "ERP-1211618",
+    "name": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION - BUCHA BARRA ESTABILIZADORA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION 2012/2018",
+    "compatibility": [
+      "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION 2012/2018"
+    ],
+    "stock": 42,
+    "featured": false
+  },
+  {
+    "id": 29,
+    "code": "ERP-1211612",
+    "name": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION - BUCHA BARRA ESTABILIZADORA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION 2010/2012",
+    "compatibility": [
+      "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION 2010/2012"
+    ],
+    "stock": 45,
+    "featured": false
+  },
+  {
+    "id": 30,
+    "code": "ERP-12116",
+    "name": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION - BUCHA BARRA ESTABILIZADORA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION 2006/2009",
+    "compatibility": [
+      "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA FUSION 2006/2009"
+    ],
+    "stock": 31,
+    "featured": false
+  },
+  {
+    "id": 31,
+    "code": "ERP-MT-ASX10/19B",
+    "name": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA ASX - BUCHA BARRA ESTABILIZADORA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA ASX 2010/2019",
+    "compatibility": [
+      "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA ASX 2010/2019"
+    ],
+    "stock": 49,
+    "featured": false
+  },
+  {
+    "id": 32,
+    "code": "ERP-MT-LC10/19S",
+    "name": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA LANCER - BUCHA BARRA ESTABILIZADORA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA LANCER 2010/2019",
+    "compatibility": [
+      "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA LANCER 2010/2019"
+    ],
+    "stock": 16,
+    "featured": false
+  },
+  {
+    "id": 33,
+    "code": "ERP-MT-OT0710S",
+    "name": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA OUTLANDER - BUCHA BARRA ESTABILIZADORA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA OUTLANDER  2007/2010",
+    "compatibility": [
+      "PAR BUCHA BARRA ESTABILIZADORA TRASEIRA OUTLANDER  2007/2010"
+    ],
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": 34,
+    "code": "8M51F17K922",
+    "name": "TAMPA REBOQUE TRASEIRA FORD FOCUS SEDAN - TAMPA REBOQUE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "TAMPA REBOQUE TRASEIRA FORD FOCUS SEDAN 2009 2010 2012 2013'",
+    "compatibility": [
+      "TAMPA REBOQUE TRASEIRA FORD FOCUS SEDAN 2009 2010 2012 2013"
+    ],
+    "stock": 37,
+    "featured": false
+  },
+  {
+    "id": 35,
+    "code": "ERP-VW-38952019",
+    "name": "TAMPA REBOQUE DIANTEIRA AMAROK 2018/ GRANDE - TAMPA REBOQUE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 38,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "TAMPA REBOQUE DIANTEIRA AMAROK 2018/ GRANDE",
+    "compatibility": [
+      "TAMPA REBOQUE DIANTEIRA AMAROK 2018/"
+    ],
+    "stock": 40,
+    "featured": false
+  },
+  {
+    "id": 36,
+    "code": "ERP-VW06028097",
+    "name": "TAMPA REBOQUE DIANTEIRA AMARO 2010/17 PEQUENA - TAMPA REBOQUE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "TAMPA REBOQUE DIANTEIRA AMARO 2010/17 PEQUENA",
+    "compatibility": [
+      "TAMPA REBOQUE DIANTEIRA AMARO 2010/17"
+    ],
+    "stock": 15,
+    "featured": false
+  },
+  {
+    "id": 37,
+    "code": "5C6807287",
+    "name": "SUPORTE PLACA JETTA 2011/2023 ( PODE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA JETTA 2011/2023 ( PODE SER ADAPTADOR NA TIGUAN 2009/2017) PRODUTO PADRÃO ORIGINAL",
+    "compatibility": [
+      "SUPORTE PLACA JETTA 2011/2023",
+      "PODE SER ADAPTADOR NA TIGUAN 2009/2017"
+    ],
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": 38,
+    "code": "5NN807287B",
+    "name": "SUPORTE PLACA TIGUAN 2018/2024",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA TIGUAN 2018/2024",
+    "compatibility": [
+      "SUPORTE PLACA TIGUAN 2018/2024"
+    ],
+    "stock": 55,
+    "featured": false
+  },
+  {
+    "id": 39,
+    "code": "6430A188",
+    "name": "SUPORTE PLACA LANCER 2010/2019",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA LANCER 2010/2019",
+    "compatibility": [
+      "SUPORTE PLACA LANCER 2010/2019"
+    ],
+    "stock": 11,
+    "featured": false
+  },
+  {
+    "id": 40,
+    "code": "ERP-F25009",
+    "name": "SUPORTE PLACA TRASEIRO F250 TODAS",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 44.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA TRASEIRO F250 TODAS",
+    "compatibility": [
+      "SUPORTE PLACA TRASEIRO F250"
+    ],
+    "stock": 54,
+    "featured": false
+  },
+  {
+    "id": 41,
+    "code": "ERP-EUROFD250DT",
+    "name": "SUPORTE PLACA DIANTEIRO F250 2007",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 69,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA DIANTEIRO F250 2007",
+    "compatibility": [
+      "SUPORTE PLACA DIANTEIRO F250 2007"
+    ],
+    "stock": 59,
+    "featured": false
+  },
+  {
+    "id": 42,
+    "code": "ERP-HD-CRV0711<",
+    "name": "SUPORTE PLACA DIANTEIRO CRV 2007/2010",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA DIANTEIRO CRV 2007/2010",
+    "compatibility": [
+      "SUPORTE PLACA DIANTEIRO CRV 2007/2010"
+    ],
+    "stock": 29,
+    "featured": false
+  },
+  {
+    "id": 43,
+    "code": "ERP-HD-CRV12/",
+    "name": "SUPORTE PLACA DIANTEIRO CRV 2012/2016",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA DIANTEIRO CRV 2012/2016",
+    "compatibility": [
+      "SUPORTE PLACA DIANTEIRO CRV 2012/2016"
+    ],
+    "stock": 48,
+    "featured": false
+  },
+  {
+    "id": 44,
+    "code": "ERP-22444",
+    "name": "SUPORTE PLACA 207 2007 Á 2013",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 30,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SUPORTE PLACA 207 2007 Á 2013",
+    "compatibility": [
+      "SUPORTE PLACA 207 2007"
+    ],
+    "stock": 31,
+    "featured": false
+  },
+  {
+    "id": 45,
+    "code": "ERP-058037",
+    "name": "ARO MILHA CROMADO 307 2006/2013 - LD",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "ARO MILHA CROMADO 307 2006/2013",
+    "compatibility": [
+      "ARO MILHA CROMADO 307 2006/2013"
+    ],
+    "stock": 22,
+    "featured": false
+  },
+  {
+    "id": 46,
+    "code": "ERP-058038",
+    "name": "ARO MILHA CROMADO 307 2006/2013 - LE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "ARO MILHA CROMADO 307 2006/2013",
+    "compatibility": [
+      "ARO MILHA CROMADO 307 2006/2013"
+    ],
+    "stock": 59,
+    "featured": false
+  },
+  {
+    "id": 47,
+    "code": "ERP-GRADE5",
+    "name": "GRADE MILHA AMAROK 2010/2016 PRETO SEM - LD",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GRADE MILHA AMAROK 2010/2016 PRETO SEM FRISO CROMADO DIREITO",
+    "compatibility": [
+      "GRADE MILHA AMAROK 2010/2016"
+    ],
+    "stock": 58,
+    "featured": false
+  },
+  {
+    "id": 48,
+    "code": "ERP-GRADE6",
+    "name": "GRADE MILHA AMAROK 2010/2016 PRETO SEM - LE",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 28,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GRADE MILHA AMAROK 2010/2016 PRETO SEM FRISO CROMADO ESQUERDO",
+    "compatibility": [
+      "GRADE MILHA AMAROK 2010/2016"
+    ],
+    "stock": 33,
+    "featured": false
+  },
+  {
+    "id": 49,
+    "code": "ERP-LXS-HD1617LD",
+    "name": "GRADE MILHA CIVIC 2015/2016 LXS LX - LD",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GRADE MILHA CIVIC 2015/2016 LXS LX LS DIREITO",
+    "compatibility": [
+      "GRADE MILHA CIVIC 2015/2016"
+    ],
+    "stock": 10,
+    "featured": false
+  },
+  {
+    "id": 50,
+    "code": "ERP-LXS-15117L-HD",
+    "name": "GRADE MILHA CIVIC 2015/2016 LXS LX - LE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "GRADE MILHA CIVIC 2015/2016 LXS LX LS ESQUERDO",
+    "compatibility": [
+      "GRADE MILHA CIVIC 2015/2016"
+    ],
+    "stock": 25,
+    "featured": false
+  },
+  {
+    "id": 51,
+    "code": "ERP-L200MT17R",
+    "name": "PISANTE PARACHOQUE TR L200 SPORT 17/21 - LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 45,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE PARACHOQUE TR L200 SPORT 17/21",
+    "compatibility": [
+      "PISANTE PARACHOQUE TR L200 SPORT 17/21"
+    ],
+    "stock": 39,
+    "featured": false
+  },
+  {
+    "id": 52,
+    "code": "ERP-L200MT17L",
+    "name": "PISANTE PARACHOQUE TR L200 SPORT 17/21 - LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 45,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE PARACHOQUE TR L200 SPORT 17/21",
+    "compatibility": [
+      "PISANTE PARACHOQUE TR L200 SPORT 17/21"
+    ],
+    "stock": 56,
+    "featured": false
+  },
+  {
+    "id": 53,
+    "code": "ERP-19760",
+    "name": "PISANTE TRASEIRO PCHQ F250 99/ 2019 - CENTRAL",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 98,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE TRASEIRO PCHQ F250 99/ 2019 TODAS CENTRAL",
+    "compatibility": [
+      "PISANTE TRASEIRO PCHQ F250 99/"
+    ],
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": 54,
+    "code": "ERP-19768",
+    "name": "PISANTE TRASEIRO PCHQ F250 99/ 2019 - LD",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 98,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE TRASEIRO PCHQ F250 99/ 2019 TODAS DIREITO",
+    "compatibility": [
+      "PISANTE TRASEIRO PCHQ F250 99/"
+    ],
+    "stock": 15,
+    "featured": false
+  },
+  {
+    "id": 55,
+    "code": "ERP-19759",
+    "name": "PISANTE TRASEIRO PCHQ F250 99/ 2019 - LE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 98,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE TRASEIRO PCHQ F250 99/ 2019 TODAS ESQUERDO",
+    "compatibility": [
+      "PISANTE TRASEIRO PCHQ F250 99/"
+    ],
+    "stock": 21,
+    "featured": false
+  },
+  {
+    "id": 56,
+    "code": "ERP-MIT01R",
+    "name": "PONTEIRA PARACHOQUE TR L200 TRITON 07/16 - LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PONTEIRA PARACHOQUE TR L200 TRITON 07/16",
+    "compatibility": [
+      "PONTEIRA PARACHOQUE TR L200 TRITON 07/16"
+    ],
+    "stock": 11,
+    "featured": false
+  },
+  {
+    "id": 57,
+    "code": "ERP-MIT01L",
+    "name": "PONTEIRA PARACHOQUE TR L200 TRITON 07/16 - LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PONTEIRA PARACHOQUE TR L200 TRITON 07/16",
+    "compatibility": [
+      "PONTEIRA PARACHOQUE TR L200 TRITON 07/16"
+    ],
+    "stock": 24,
+    "featured": false
+  },
+  {
+    "id": 58,
+    "code": "ERP-TY9711PPTD",
+    "name": "PISANTE PARACHOQUE TR HILUX 2016/2024 - LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 30,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE PARACHOQUE TR HILUX 2016/2024",
+    "compatibility": [
+      "PISANTE PARACHOQUE TR HILUX 2016/2024"
+    ],
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": 59,
+    "code": "ERP-TY9711PPTE",
+    "name": "PISANTE PARACHOQUE TR HILUX 2016/2024 - LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 30,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE PARACHOQUE TR HILUX 2016/2024",
+    "compatibility": [
+      "PISANTE PARACHOQUE TR HILUX 2016/2024"
+    ],
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 60,
+    "code": "ERP-GM00112CS10",
+    "name": "PISANTE PARACHOQUE TR S10 2001/2011 - CENTRAL",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE PARACHOQUE TR S10 2001/2011",
+    "compatibility": [
+      "PISANTE PARACHOQUE TR S10 2001/2011"
+    ],
+    "stock": 36,
+    "featured": false
+  },
+  {
+    "id": 61,
+    "code": "ERP-VW06050002",
+    "name": "PISANTE PARACHOQUE TR CENTRAL AMAROK TODAS - CENTRAL",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 89,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PISANTE PARACHOQUE TR CENTRAL AMAROK TODAS",
+    "compatibility": [
+      "PISANTE PARACHOQUE TR CENTRAL AMAROK"
+    ],
+    "stock": 39,
+    "featured": false
+  },
+  {
+    "id": 62,
+    "code": "ERP-L200-07113R",
+    "name": "PARACHOQUE TRASEIRO L200 TRITON 07/17 DIREITO - LD",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 110,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PARACHOQUE TRASEIRO L200 TRITON 07/17 DIREITO",
+    "compatibility": [
+      "PARACHOQUE TRASEIRO L200 TRITON 07/17"
+    ],
+    "stock": 38,
+    "featured": false
+  },
+  {
+    "id": 63,
+    "code": "ERP-MT-TRL200207",
+    "name": "PARACHOQUE TRASERIO L200 TRITON 07/17 ESQUERDO - LE",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 110,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "PARACHOQUE TRASERIO L200 TRITON 07/17 ESQUERDO",
+    "compatibility": [
+      "PARACHOQUE TRASERIO L200 TRITON 07/17"
+    ],
+    "stock": 37,
+    "featured": false
+  },
+  {
+    "id": 64,
+    "code": "ERP-VW057173",
+    "name": "SPOILER DIANTEIRO POLO 2007/2011 - CENTRAL",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3752169/pexels-photo-3752169.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SPOILER DIANTEIRO POLO 2007/2011",
+    "compatibility": [
+      "SPOILER DIANTEIRO POLO 2007/2011"
+    ],
+    "stock": 58,
+    "featured": false
+  },
+  {
+    "id": 65,
+    "code": "ERP-VW2237306",
+    "name": "SPOILER DIANTEIRO POLO 2003/2006 - CENTRAL",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3752169/pexels-photo-3752169.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SPOILER DIANTEIRO POLO 2003/2006",
+    "compatibility": [
+      "SPOILER DIANTEIRO POLO 2003/2006"
+    ],
+    "stock": 46,
+    "featured": false
+  },
+  {
+    "id": 66,
+    "code": "ERP-FD29155",
+    "name": "SPOILER P/CHOQUE DIANT KA 15/22 SDN/HATCH -                  SEM LADO",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 49.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3752169/pexels-photo-3752169.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SPOILER P/CHOQUE DIANT KA 15/22 SDN/HATCH (SE/S)",
+    "compatibility": [
+      "CHOQUE DIANT KA 15/22"
+    ],
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": 67,
+    "code": "VW-OEM060306D",
+    "name": "BORRACHÃO DIANTEIRO POLO 2003/2006 - CENTRAL",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3752169/pexels-photo-3752169.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BORRACHÃO DIANTEIRO POLO 2003/2006",
+    "compatibility": [
+      "O DIANTEIRO POLO 2003/2006"
+    ],
+    "stock": 27,
+    "featured": false
+  },
+  {
+    "id": 68,
+    "code": "ERP-FD1019054",
+    "name": "SPOILER TRASEIRO FIESTA MEXICANO HATCH 10/13 - CENTRAL",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 145,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3752169/pexels-photo-3752169.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "SPOILER TRASEIRO FIESTA MEXICANO HATCH 10/13",
+    "compatibility": [
+      "SPOILER TRASEIRO FIESTA MEXICANO HATCH 10/13"
+    ],
+    "stock": 31,
+    "featured": false
+  },
+  {
+    "id": 69,
+    "code": "ERP-33099-1",
+    "name": "BATENTE FECHADURA TAMPA TR AMAROK TODOS - LE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 30,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489794/pexels-photo-4489794.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BATENTE FECHADURA TAMPA TR AMAROK TODOS",
+    "compatibility": [
+      "BATENTE FECHADURA TAMPA TR AMAROK"
+    ],
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 70,
+    "code": "ERP-33099-2",
+    "name": "BATENTE FECHADURA TAMPA TR AMAROK TODOS - LD",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 30,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489794/pexels-photo-4489794.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BATENTE FECHADURA TAMPA TR AMAROK TODOS",
+    "compatibility": [
+      "BATENTE FECHADURA TAMPA TR AMAROK"
+    ],
+    "stock": 42,
+    "featured": false
+  },
+  {
+    "id": 71,
+    "code": "ERP-5C3Z16720EB",
+    "name": "EMBLEMA LATERAL PARALAMA E TAMPA TRASEIRA - PARALAMA",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA LATERAL PARALAMA E TAMPA TRASEIRA MODELO HAVY DUTY F250 5C3Z16720EB",
+    "compatibility": [
+      "EMBLEMA LATERAL PARALAMA E TAMPA TRASEIRA MODELO HAVY DUTY F250 5C3Z16720"
+    ],
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 72,
+    "code": "ERP-KIT3S10",
+    "name": "EMBLEMA S10 HIGH CONTRY - TRAILBLAZER - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 159,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA S10 HIGH CONTRY - TRAILBLAZER 21/ KIT 3 PÇS GM",
+    "compatibility": [
+      "EMBLEMA S10",
+      "TRAILBLAZER 21/"
+    ],
+    "stock": 38,
+    "featured": false
+  },
+  {
+    "id": 73,
+    "code": "ERP-GM18/24OEM",
+    "name": "EMBLEMA GRADE S10 TRAILBLAZER 2018/2021 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE S10 TRAILBLAZER 2018/2021",
+    "compatibility": [
+      "EMBLEMA GRADE S10 TRAILBLAZER 2018/2021"
+    ],
+    "stock": 13,
+    "featured": false
+  },
+  {
+    "id": 74,
+    "code": "ERP-TY05CR936",
+    "name": "EMBLEMA HILUX GRADE DIANTEIRA 05/2015 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 24,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA HILUX GRADE DIANTEIRA 05/2015",
+    "compatibility": [
+      "EMBLEMA HILUX GRADE DIANTEIRA 05/2015"
+    ],
+    "stock": 21,
+    "featured": false
+  },
+  {
+    "id": 75,
+    "code": "ERP-FC09/13HS",
+    "name": "EMBLEMA DO FRISO TRASEIRO FOCUS 2009/13 - MOLDURA TRASEIRA",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA DO FRISO TRASEIRO FOCUS 2009/13 HATCH / SEDAN",
+    "compatibility": [
+      "EMBLEMA DO FRISO TRASEIRO FOCUS 2009/13"
+    ],
+    "stock": 44,
+    "featured": false
+  },
+  {
+    "id": 76,
+    "code": "ERP-FD13K15/T",
+    "name": "EMBLEMA TAMPA TRASEIRA ECOSPORT 2013/ - TAMPA TRASEIRA ",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 45,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA TAMPA TRASEIRA ECOSPORT 2013/",
+    "compatibility": [
+      "EMBLEMA TAMPA TRASEIRA ECOSPORT 2013/"
+    ],
+    "stock": 23,
+    "featured": false
+  },
+  {
+    "id": 77,
+    "code": "ERP-VW02",
+    "name": "EMBLEMA JETTA 2007/2010 PASSAT 07/10 TIGUAN - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 125,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA JETTA 2007/2010 PASSAT 07/10 TIGUAN 09/15 BORA 07/10",
+    "compatibility": [
+      "EMBLEMA JETTA 2007/2010",
+      "PASSAT 07/10",
+      "TIGUAN 09/15"
+    ],
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": 78,
+    "code": "ERP-VW01",
+    "name": "EMBLEMA GRADE JETTA 2011/2015 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 49,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE JETTA 2011/2015",
+    "compatibility": [
+      "EMBLEMA GRADE JETTA 2011/2015"
+    ],
+    "stock": 39,
+    "featured": false
+  },
+  {
+    "id": 79,
+    "code": "ERP-GM12022018",
+    "name": "EMBLEMA S10 2012/2022 CROMADO - CENTRO - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 38,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA S10 2012/2022 CROMADO - CENTRO DOURADO",
+    "compatibility": [
+      "EMBLEMA S10 2012/2022"
+    ],
+    "stock": 47,
+    "featured": false
+  },
+  {
+    "id": 80,
+    "code": "ERP-C30207C2",
+    "name": "EMBLEMA C3 2002/2007 ( KIT 2 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 42,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA C3 2002/2007 ( KIT 2 GRAVATAS CROMADAS)",
+    "compatibility": [
+      "EMBLEMA C3 2002/2007"
+    ],
+    "stock": 41,
+    "featured": false
+  },
+  {
+    "id": 81,
+    "code": "ERP-C30812C2",
+    "name": "EMBLEMA C3 2008/2012 ( KIT 2 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 42,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA C3 2008/2012 ( KIT 2 GRAVATAS CROMADAS)",
+    "compatibility": [
+      "EMBLEMA C3 2008/2012"
+    ],
+    "stock": 13,
+    "featured": false
+  },
+  {
+    "id": 82,
+    "code": "ERP-MT11101",
+    "name": "EMBLEMA DIANTEIRO ASX 2010/2015 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA DIANTEIRO ASX 2010/2015",
+    "compatibility": [
+      "EMBLEMA DIANTEIRO ASX 2010/2015"
+    ],
+    "stock": 56,
+    "featured": false
+  },
+  {
+    "id": 83,
+    "code": "ERP-MT11100",
+    "name": "EMBLEMA DIANTEIRO LANCER 2010/2019 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA DIANTEIRO LANCER 2010/2019",
+    "compatibility": [
+      "EMBLEMA DIANTEIRO LANCER 2010/2019"
+    ],
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 84,
+    "code": "ERP-208PG11/15",
+    "name": "EMBLEMA PEUGEOT 208 2012/2015 ( ESTE - GRADE",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA PEUGEOT 208 2012/2015 ( ESTE EMBLEMA É APLICADO NA GRADE CENTRAL ABAIXO DO FRISO CROMADO)",
+    "compatibility": [
+      "EMBLEMA PEUGEOT 208 2012/2015"
+    ],
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": 85,
+    "code": "ERP-GM-1979903",
+    "name": "EMBLEMA GRADE SILVERADO DOURADO 97 ATÉ - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE SILVERADO DOURADO 97 ATÉ 2004",
+    "compatibility": [
+      "EMBLEMA GRADE SILVERADO DOURADO 97"
+    ],
+    "stock": 44,
+    "featured": false
+  },
+  {
+    "id": 86,
+    "code": "ERP-EMBLE6",
+    "name": "EMBLEMA GRADE NEW CIVIC 2007 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 22,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE NEW CIVIC 2007",
+    "compatibility": [
+      "EMBLEMA GRADE NEW CIVIC 2007"
+    ],
+    "stock": 32,
+    "featured": false
+  },
+  {
+    "id": 87,
+    "code": "ERP-EMBLE9",
+    "name": "EMBLEMA GRADE NEW FIT 09 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 22,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE NEW FIT 09",
+    "compatibility": [
+      "EMBLEMA GRADE NEW FIT 09"
+    ],
+    "stock": 39,
+    "featured": false
+  },
+  {
+    "id": 88,
+    "code": "ERP-HD-C11519CR",
+    "name": "EMBLEMA CITY 2015/2019 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 35,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA CITY 2015/2019",
+    "compatibility": [
+      "EMBLEMA CITY 2015/2019"
+    ],
+    "stock": 27,
+    "featured": false
+  },
+  {
+    "id": 89,
+    "code": "ERP-MT-LW-14LE7",
+    "name": "EMBLEMA GRADE OUTLANDER 2014/2015 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 65,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE OUTLANDER 2014/2015",
+    "compatibility": [
+      "EMBLEMA GRADE OUTLANDER 2014/2015"
+    ],
+    "stock": 49,
+    "featured": false
+  },
+  {
+    "id": 90,
+    "code": "ERP-20SRX3",
+    "name": "EMBLEMA GRADE HILUX 21/24 RESINADO COM - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 175,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE HILUX 21/24 RESINADO COM SUPORTE ACC",
+    "compatibility": [
+      "EMBLEMA GRADE HILUX 21/24"
+    ],
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": 91,
+    "code": "ERP-MT-SPTL20017",
+    "name": "EMBLEMA GRADE L200 TRITON SPORT 2017/2021 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 94,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE L200 TRITON SPORT 2017/2021",
+    "compatibility": [
+      "EMBLEMA GRADE L200 TRITON SPORT 2017/2021"
+    ],
+    "stock": 48,
+    "featured": false
+  },
+  {
+    "id": 92,
+    "code": "ERP-MIT-16377",
+    "name": "EMBLEMA GRADE OUTLANDER 2016/2024 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 110,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE OUTLANDER 2016/2024",
+    "compatibility": [
+      "EMBLEMA GRADE OUTLANDER 2016/2024"
+    ],
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": 93,
+    "code": "ERP-VW03",
+    "name": "EMBLEMA GRADE JETTA 2015/2018 - GRADE",
+    "brand": "Europartes",
+    "category": "Grades",
+    "price": 75,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA GRADE JETTA 2015/2018",
+    "compatibility": [
+      "EMBLEMA GRADE JETTA 2015/2018"
+    ],
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": 94,
+    "code": "ERP-PG2-005DF-207-0",
+    "name": "EMBLEMA PEUGEOT 207 HOGGAR / SCAPADE - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 55,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA PEUGEOT 207 HOGGAR / SCAPADE / MODELOS HATCH E SEDAN",
+    "compatibility": [
+      "EMBLEMA PEUGEOT 207"
+    ],
+    "stock": 58,
+    "featured": false
+  },
+  {
+    "id": 95,
+    "code": "ERP-PG1025-206/207",
+    "name": "EMBLEMA FRISO TAMPA TRASEIRA 206 207 - TAMPA TRASEIRA ",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 105,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA FRISO TAMPA TRASEIRA 206 207 HATCH CROMADO ESCRITO PEUGEOT / ACOMPANHA PRESILHAS",
+    "compatibility": [
+      "EMBLEMA FRISO TAMPA TRASEIRA 206 207"
+    ],
+    "stock": 38,
+    "featured": false
+  },
+  {
+    "id": 96,
+    "code": "ERP-DF-FCS-005CR",
+    "name": "FRISO TAMPA TRASEIRA FORD FOCUS 09/13 - TAMPA TRASEIRA ",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 289,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "FRISO TAMPA TRASEIRA FORD FOCUS 09/13 HATCH CROMADO",
+    "compatibility": [
+      "FRISO TAMPA TRASEIRA FORD FOCUS 09/13"
+    ],
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 97,
+    "code": "ERP-HD-FIT15/23P",
+    "name": "FRISO TAMPA TRASEIRA HONDA FIT 2015/2022 - TAMPA TRASEIRA ",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 255,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "FRISO TAMPA TRASEIRA HONDA FIT 2015/2022",
+    "compatibility": [
+      "FRISO TAMPA TRASEIRA HONDA FIT 2015/2022"
+    ],
+    "stock": 46,
+    "featured": false
+  },
+  {
+    "id": 98,
+    "code": "ERP-MB-08/151933B",
+    "name": "EMBLEMA COMPLETO MERCEDES C180 C200 C300 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 150,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA COMPLETO MERCEDES C180 C200 C300 15/ BLACKPIANO ( PRODUTO PADRÃO ORIGINAL ENCAIXE) BASE + EMBLEMA",
+    "compatibility": [
+      "EMBLEMA COMPLETO MERCEDES C180 C200 C300 15/"
+    ],
+    "stock": 14,
+    "featured": false
+  },
+  {
+    "id": 99,
+    "code": "ERP-MB-08/151933F",
+    "name": "EMBLEMA COMPLETO MERCEDES C180 C200 C300 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 150,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA COMPLETO MERCEDES C180 C200 C300 15/ PRETO FOSCO ( PRODUTO PADRÃO ORIGINAL ENCAIXE) BASE + EMBLEMA",
+    "compatibility": [
+      "EMBLEMA COMPLETO MERCEDES C180 C200 C300 15/"
+    ],
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 100,
+    "code": "ERP-MB-08/151933",
+    "name": "EMBLEMA COMPLETO MERCEDES C180 C200 C300 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 105,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA COMPLETO MERCEDES C180 C200 C300 GLA CLA 2015/2019 ( PRODUTO PADRÃO ORIGINAL ENCAIXE) BASE + EMBLEMA",
+    "compatibility": [
+      "EMBLEMA COMPLETO MERCEDES C180 C200 C300 GLA CLA 2015/2019"
+    ],
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": 101,
+    "code": "ERP-MB-08/151932",
+    "name": "EMBLEMA MERCEDES C180 C200 C300 GLA - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA MERCEDES C180 C200 C300 GLA CLA 2015/2019 SOMENTE ESTRELA CROMADA ( PRODUTO PADRÃO ORIGINAL ENCAIXE)",
+    "compatibility": [
+      "EMBLEMA MERCEDES C180 C200 C300 GLA CLA 2015/2019"
+    ],
+    "stock": 57,
+    "featured": false
+  },
+  {
+    "id": 102,
+    "code": "ERP-MB-08/151932F",
+    "name": "EMBLEMA MERCEDES C180 C200 C300 GLA - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 105,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA MERCEDES C180 C200 C300 GLA CLA 2015/2019 SOMENTE ESTRELA PRETO FOSCO ( PRODUTO PADRÃO ORIGINAL ENCAIXE)",
+    "compatibility": [
+      "EMBLEMA MERCEDES C180 C200 C300 GLA CLA 2015/2019"
+    ],
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": 103,
+    "code": "ERP-MB-08/151932B",
+    "name": "EMBLEMA MERCEDES C180 C200 C300 GLA - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 105,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA MERCEDES C180 C200 C300 GLA CLA 2015/2019 SOMENTE ESTRELA BLACKPIANO ( PRODUTO PADRÃO ORIGINAL ENCAIXE)",
+    "compatibility": [
+      "EMBLEMA MERCEDES C180 C200 C300 GLA CLA 2015/2019"
+    ],
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 104,
+    "code": "ERP-FD2500711",
+    "name": "EMBLEMA F250 2007/  - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA F250 2007/ ",
+    "compatibility": [
+      "EMBLEMA F250 2007/"
+    ],
+    "stock": 28,
+    "featured": false
+  },
+  {
+    "id": 105,
+    "code": "ERP-FD-33RN2022",
+    "name": "EMBLEMA RANGER 2013/2021 - GRADE",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "EMBLEMA RANGER 2013/2021",
+    "compatibility": [
+      "EMBLEMA RANGER 2013/2021"
+    ],
+    "stock": 36,
+    "featured": false
+  },
+  {
+    "id": 106,
+    "code": "ERP-KPA1405002",
+    "name": "KIT PRESILHAS FRISO TRASEIRO 207 206 - PRESILHAS",
+    "brand": "Europartes",
+    "category": "Acabamento",
+    "price": 19.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489794/pexels-photo-4489794.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "KIT PRESILHAS FRISO TRASEIRO 207 206 MODELO HATCH TODOS",
+    "compatibility": [
+      "KIT PRESILHAS FRISO TRASEIRO 207 206"
+    ],
+    "stock": 42,
+    "featured": false
+  },
+  {
+    "id": 107,
+    "code": "ERP-HFC03/2010",
+    "name": "REPARO LIMITADOR PORTA HONDA FIT 2003 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA HONDA FIT 2003 - 2008 KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA HONDA FIT 2003"
+    ],
+    "stock": 22,
+    "featured": false
+  },
+  {
+    "id": 108,
+    "code": "ERP-TC-03/2019",
+    "name": "REPARO LIMITADOR PORTA TOYOTA COROLLA 2003 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA TOYOTA COROLLA 2003 ATÉ 2019 HILUX 2005 ATÉ 2015 LINHA PICKUP / SW4 KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA TOYOTA COROLLA 2003",
+      "HILUX 2005"
+    ],
+    "stock": 27,
+    "featured": false
+  },
+  {
+    "id": 109,
+    "code": "ERP-TCE-13/2010",
+    "name": "REPARO LIMITADOR PORTA TOYOTA ETIOS 2010 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA TOYOTA ETIOS 2010 ATÉ 2024 TODOS OS MODELOS KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA TOYOTA ETIOS 2010"
+    ],
+    "stock": 55,
+    "featured": false
+  },
+  {
+    "id": 110,
+    "code": "ERP-HD-01/06",
+    "name": "REPARO LIMITADOR PORTA HONDA CIVIC 01/06 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA HONDA CIVIC 01/06 TODOS OS MODELOS KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA HONDA CIVIC 01/06"
+    ],
+    "stock": 57,
+    "featured": false
+  },
+  {
+    "id": 111,
+    "code": "ERP-HD-07/11NEW",
+    "name": "REPARO LIMITADOR PORTA HONDA NEW CIVIC - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA HONDA NEW CIVIC 2007 ATÉ 2011 TODOS OS MODELOS KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA HONDA NEW CIVIC 2007"
+    ],
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": 112,
+    "code": "ERP-HD-09/13",
+    "name": "REPARO LIMITADOR PORTA HONDA CITY 2009/2013 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA HONDA CITY 2009/2013 HONDA NEW FIT 09/14 KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA HONDA CITY 2009/2013",
+      "HONDA NEW FIT 09/14"
+    ],
+    "stock": 10,
+    "featured": false
+  },
+  {
+    "id": 113,
+    "code": "ERP-HY-09/19",
+    "name": "REPARO LIMITADOR PORTA HYUNDAI I30 09/12 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA HYUNDAI I30 09/12 HB20 TODOS 2010/2020 ELANTRA 09/15 IX35 08/19 KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA HYUNDAI I30 09/12",
+      "HB20 TODOS 2010/2020",
+      "ELANTRA 09/15"
+    ],
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 114,
+    "code": "ERP-MIT-0719",
+    "name": "REPARO LIMITADOR PORTA MITSUBISHI TR4 2003/2015 - PORTA / LIMITADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489731/pexels-photo-4489731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO LIMITADOR PORTA MITSUBISHI TR4 2003/2015 L200 TRITON 07/17 PAJERO DAKAR 07/17 KIT 4 PORTAS",
+    "compatibility": [
+      "REPARO LIMITADOR PORTA MITSUBISHI TR4 2003/2015",
+      "L200 TRITON 07/17",
+      "PAJERO DAKAR 07/17"
+    ],
+    "stock": 46,
+    "featured": false
+  },
+  {
+    "id": 115,
+    "code": "ERP-VW377103937",
+    "name": "TAMPA PARAFUSO MOTOR LINHA VW AUDI - CAPA PARAFUSO MOTOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 2.5,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "TAMPA PARAFUSO MOTOR LINHA VW AUDI GOLF PARATI BORA JETTA AMAROK 1 PÇA UNIDADE",
+    "compatibility": [
+      "TAMPA PARAFUSO MOTOR LINHA VW"
+    ],
+    "stock": 21,
+    "featured": false
+  },
+  {
+    "id": 116,
+    "code": "ERP-12594875",
+    "name": "KIT BUCHA CAPA MOTOR S10 2012/2014 - BUCHA FIXADOR CAPA MOTOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 34.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "KIT BUCHA CAPA MOTOR S10 2012/2014 / PODER SER COLOCADO TBM NO RESONADOR ONIX PRISMA SPIN",
+    "compatibility": [
+      "KIT BUCHA CAPA MOTOR S10 2012/2014"
+    ],
+    "stock": 24,
+    "featured": false
+  },
+  {
+    "id": 117,
+    "code": "ERP-REPAR6",
+    "name": "REPARO CILINDRO INTERNO RETROVISOR AMAROK TODAS - REPARO RETROVISOR",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 24.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "REPARO CILINDRO INTERNO RETROVISOR AMAROK TODAS 2010 - 2024 ( ESTE PRODUTO NÃO TEM LADO)",
+    "compatibility": [
+      "REPARO CILINDRO INTERNO RETROVISOR AMAROK TODAS 2010"
+    ],
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": 118,
+    "code": "ERP-HY-I30/HLX",
+    "name": "BUCHA REPARO TRAMBULADOR I30 2009/ VELOSTER - REPARO TRAMBULADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 14.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO TRAMBULADOR I30 2009/ VELOSTER TODOS / HILUX 05/2015 / L200 TRITON 2007/2017",
+    "compatibility": [
+      "BUCHA REPARO TRAMBULADOR I30 2009/",
+      "HILUX 05/2015",
+      "L200 TRITON 2007/2017"
+    ],
+    "stock": 58,
+    "featured": false
+  },
+  {
+    "id": 119,
+    "code": "ERP-BUCHA1",
+    "name": "BUCHA REPARO TRAMBULADOR CABO SELETOR MARCHA - REPARO TRAMBULADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 14.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO TRAMBULADOR CABO SELETOR MARCHA MANUAL GOLF JETTA BORA AMAROK",
+    "compatibility": [
+      "BUCHA REPARO TRAMBULADOR CABO SELETOR"
+    ],
+    "stock": 32,
+    "featured": false
+  },
+  {
+    "id": 120,
+    "code": "ERP-VW2-1J0711266",
+    "name": "BUCHA REPARO TRAMBULADOR CABO SELETOR MARCHA - REPARO TRAMBULADOR",
+    "brand": "Europartes",
+    "category": "Acessórios",
+    "price": 18.9,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/4489702/pexels-photo-4489702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "BUCHA REPARO TRAMBULADOR CABO SELETOR MARCHA AUTOMATICO GOLF JETTA BORA AMAROK",
+    "compatibility": [
+      "BUCHA REPARO TRAMBULADOR CABO SELETOR"
+    ],
+    "stock": 26,
+    "featured": false
+  },
+  {
+    "id": 121,
+    "code": "ERP-DF-TY2-155",
+    "name": "DEFLEOTR INFERIOR PARACHOQUE COROLLA 2003/2008  - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLEOTR INFERIOR PARACHOQUE COROLLA 2003/2008 ",
+    "compatibility": [
+      "DEFLEOTR INFERIOR PARACHOQUE COROLLA 2003/2008"
+    ],
+    "stock": 17,
+    "featured": false
+  },
+  {
+    "id": 122,
+    "code": "ERP-51451-02220",
+    "name": "DEFLETOR INFERIOR PARACHOQUE COROLLA 2019/2024 - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 85,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLETOR INFERIOR PARACHOQUE COROLLA 2019/2024",
+    "compatibility": [
+      "DEFLETOR INFERIOR PARACHOQUE COROLLA 2019/2024"
+    ],
+    "stock": 46,
+    "featured": false
+  },
+  {
+    "id": 123,
+    "code": "ERP-5144102370",
+    "name": "DEFLETOR INFERIOR PARACHOQUE COROLLA 2009/2014 DIREITO - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 89,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLETOR INFERIOR PARACHOQUE COROLLA 2009/2014 DIREITO ",
+    "compatibility": [
+      "DEFLETOR INFERIOR PARACHOQUE COROLLA 2009/2014"
+    ],
+    "stock": 11,
+    "featured": false
+  },
+  {
+    "id": 124,
+    "code": "ERP-5144102380",
+    "name": "DEFLETOR INFERIOR PARACHOQUE COROLLA 2009/2014 ESQUERDO - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 89,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLETOR INFERIOR PARACHOQUE COROLLA 2009/2014 ESQUERDO",
+    "compatibility": [
+      "DEFLETOR INFERIOR PARACHOQUE COROLLA 2009/2014"
+    ],
+    "stock": 14,
+    "featured": false
+  },
+  {
+    "id": 125,
+    "code": "ERP-HONDA0612X",
+    "name": "DEFLETOR INFERIOR PARACHOQUE CIVIC 2012/ 2015 - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 89,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLETOR INFERIOR PARACHOQUE CIVIC 2012/ 2015",
+    "compatibility": [
+      "DEFLETOR INFERIOR PARACHOQUE CIVIC 2012/"
+    ],
+    "stock": 59,
+    "featured": false
+  },
+  {
+    "id": 126,
+    "code": "ERP-HONDA0611X",
+    "name": "DEFLETOR INFERIOR PARACHOQUE CIVIC 2007/2011 - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 89,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLETOR INFERIOR PARACHOQUE CIVIC 2007/2011",
+    "compatibility": [
+      "DEFLETOR INFERIOR PARACHOQUE CIVIC 2007/2011"
+    ],
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": 127,
+    "code": "ERP-HONDA0610X",
+    "name": "DEFLETOR INFERIOR PARACHOQUE FIT 03/07 - DEFLETOR",
+    "brand": "Europartes",
+    "category": "Para-choques",
+    "price": 89,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "DEFLETOR INFERIOR PARACHOQUE FIT 03/07",
+    "compatibility": [
+      "DEFLETOR INFERIOR PARACHOQUE FIT 03/07"
+    ],
+    "stock": 50,
+    "featured": false
+  },
+  {
+    "id": 128,
+    "code": "ERP-FT0519R",
+    "name": "LENTE PISCA SETA RETROVISOR STRADA IDEA - LENTE PISCA RETROVISOR",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 22,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "LENTE PISCA SETA RETROVISOR STRADA IDEA ADV PALIO WEEK 2005/2015 ESQUERDO",
+    "compatibility": [
+      "LENTE PISCA SETA RETROVISOR STRADA IDEA ADV PALIO WEEK 2005/2015"
+    ],
+    "stock": 37,
+    "featured": false
+  },
+  {
+    "id": 129,
+    "code": "ERP-FT0519L",
+    "name": "LENTE PISCA SETA RETROVISOR STRADA IDEA - LENTE PISCA RETROVISOR",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 22,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "LENTE PISCA SETA RETROVISOR STRADA IDEA ADV PALIO WEEK 2005/2015 DIREITO",
+    "compatibility": [
+      "LENTE PISCA SETA RETROVISOR STRADA IDEA ADV PALIO WEEK 2005/2015"
+    ],
+    "stock": 35,
+    "featured": false
+  },
+  {
+    "id": 130,
+    "code": "ERP-FT26365L",
+    "name": "LENTE PISCA SETA RETROVISOR FIAT STILO - LENTE PISCA RETROVISOR",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 22,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "LENTE PISCA SETA RETROVISOR FIAT STILO 08 A 12 ESQUERDO ",
+    "compatibility": [
+      "LENTE PISCA SETA RETROVISOR FIAT STILO 08 A 12"
+    ],
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 131,
+    "code": "ERP-FT26366R",
+    "name": "LENTE PISCA SETA RETROVISOR FIAT STILO - LENTE PISCA RETROVISOR",
+    "brand": "Europartes",
+    "category": "Retrovisores",
+    "price": 22,
+    "originalPrice": null,
+    "image": "https://images.pexels.com/photos/13781824/pexels-photo-13781824.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "description": "LENTE PISCA SETA RETROVISOR FIAT STILO 08 A 12 DIREITO ",
+    "compatibility": [
+      "LENTE PISCA SETA RETROVISOR FIAT STILO 08 A 12"
+    ],
+    "stock": 12,
+    "featured": false
+  }
+]

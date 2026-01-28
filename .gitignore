@@ -1,0 +1,36 @@
+# Environment variables (IMPORTANTE: não enviar credenciais!)
+.env
+.env.local
+
+# Scripts auxiliares locais
+read-excel.cjs
+update-images.cjs
+update-images-by-type.cjs
+fix-images.cjs
+fetch-images.cjs
+ml-links.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
